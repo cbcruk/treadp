@@ -1,0 +1,8 @@
+minimumReleaseAgeExclude:
+  - '@tanstack/hotkeys@0.30.0'
+  - '@tanstack/react-hotkeys@0.25.1'
+  - '@astryxdesign/cli@0.7.16'
+# postinstall은 "astryx init 하세요" 안내만 출력한다
+allowBuilds:
+  '@astryxdesign/core': false
+  '@astryxdesign/cli': false

@@ -1,0 +1,21 @@
+// 아이콘은 테마가 쓰는 lucide-react에서 고른다. features/는 여기 있는 것만 쓴다.
+export {
+  BookmarkPlus,
+  ChevronLeft,
+  ChevronRight,
+  ClipboardCopy,
+  Copy,
+  Eraser,
+  History,
+  Keyboard,
+  Merge,
+  Palette,
+  Plus,
+  Redo2,
+  Scissors,
+  Trash2,
+  Undo2,
+  X,
+  ZoomIn,
+  ZoomOut,
+} from 'lucide-react'

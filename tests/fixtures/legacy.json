@@ -1,0 +1,876 @@
+{
+  "generatedFrom": "legacy/index.html",
+  "format": [
+    {
+      "name": "defaultDraft",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "빌드업",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 5
+              },
+              {
+                "from": 12,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 12.5,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13.5,
+                "to": null,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": false,
+        "names": false
+      },
+      "text": "6~11 10분\n---\n11~11.5 5분\n12 15분\n12.5 15분\n13 15분\n13.5 10분\n---\n6 5분"
+    },
+    {
+      "name": "defaultDraft",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "빌드업",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 5
+              },
+              {
+                "from": 12,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 12.5,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13.5,
+                "to": null,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": true,
+        "names": false
+      },
+      "text": "6~11 10분\n---\n11~11.5 5분\n12 15분\n12.5 15분\n13 15분\n13.5 10분\n---\n6 5분\n\n총 75분 · 14.48km · 평균 11.6km/h (5:11/km)"
+    },
+    {
+      "name": "defaultDraft",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "빌드업",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 5
+              },
+              {
+                "from": 12,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 12.5,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13.5,
+                "to": null,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": false,
+        "names": true
+      },
+      "text": "[웜업]\n6~11 10분\n---\n[빌드업]\n11~11.5 5분\n12 15분\n12.5 15분\n13 15분\n13.5 10분\n---\n[쿨다운]\n6 5분"
+    },
+    {
+      "name": "defaultDraft",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "빌드업",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 5
+              },
+              {
+                "from": 12,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 12.5,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13.5,
+                "to": null,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": true,
+        "names": true
+      },
+      "text": "[웜업]\n6~11 10분\n---\n[빌드업]\n11~11.5 5분\n12 15분\n12.5 15분\n13 15분\n13.5 10분\n---\n[쿨다운]\n6 5분\n\n총 75분 · 14.48km · 평균 11.6km/h (5:11/km)"
+    },
+    {
+      "name": "withMemoAndFractions",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "  오늘도 비슷한 흐름으로 빌드업  ",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "메인",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 2.5
+              },
+              {
+                "from": 12.25,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": 13,
+                "min": 0.5
+              }
+            ]
+          },
+          {
+            "name": "",
+            "color": 2,
+            "segs": [
+              {
+                "from": 14,
+                "to": null,
+                "min": 1.75
+              }
+            ]
+          },
+          {
+            "name": "빈 묶음",
+            "color": 3,
+            "segs": []
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": false,
+        "names": false
+      },
+      "text": "오늘도 비슷한 흐름으로 빌드업\n\n6~11 10분\n---\n11~11.5 2분30초\n12.25 15분\n13 30초\n---\n14 1분45초\n---\n6 5분"
+    },
+    {
+      "name": "withMemoAndFractions",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "  오늘도 비슷한 흐름으로 빌드업  ",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "메인",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 2.5
+              },
+              {
+                "from": 12.25,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": 13,
+                "min": 0.5
+              }
+            ]
+          },
+          {
+            "name": "",
+            "color": 2,
+            "segs": [
+              {
+                "from": 14,
+                "to": null,
+                "min": 1.75
+              }
+            ]
+          },
+          {
+            "name": "빈 묶음",
+            "color": 3,
+            "segs": []
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": true,
+        "names": false
+      },
+      "text": "오늘도 비슷한 흐름으로 빌드업\n\n6~11 10분\n---\n11~11.5 2분30초\n12.25 15분\n13 30초\n---\n14 1분45초\n---\n6 5분\n\n총 34.75분 · 5.96km · 평균 10.3km/h (5:50/km)"
+    },
+    {
+      "name": "withMemoAndFractions",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "  오늘도 비슷한 흐름으로 빌드업  ",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "메인",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 2.5
+              },
+              {
+                "from": 12.25,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": 13,
+                "min": 0.5
+              }
+            ]
+          },
+          {
+            "name": "",
+            "color": 2,
+            "segs": [
+              {
+                "from": 14,
+                "to": null,
+                "min": 1.75
+              }
+            ]
+          },
+          {
+            "name": "빈 묶음",
+            "color": 3,
+            "segs": []
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": false,
+        "names": true
+      },
+      "text": "오늘도 비슷한 흐름으로 빌드업\n\n[웜업]\n6~11 10분\n---\n[메인]\n11~11.5 2분30초\n12.25 15분\n13 30초\n---\n14 1분45초\n---\n[쿨다운]\n6 5분"
+    },
+    {
+      "name": "withMemoAndFractions",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "  오늘도 비슷한 흐름으로 빌드업  ",
+        "sections": [
+          {
+            "name": "웜업",
+            "color": 0,
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "메인",
+            "color": 1,
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 2.5
+              },
+              {
+                "from": 12.25,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 13,
+                "to": 13,
+                "min": 0.5
+              }
+            ]
+          },
+          {
+            "name": "",
+            "color": 2,
+            "segs": [
+              {
+                "from": 14,
+                "to": null,
+                "min": 1.75
+              }
+            ]
+          },
+          {
+            "name": "빈 묶음",
+            "color": 3,
+            "segs": []
+          },
+          {
+            "name": "쿨다운",
+            "color": 3,
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      },
+      "opts": {
+        "summary": true,
+        "names": true
+      },
+      "text": "오늘도 비슷한 흐름으로 빌드업\n\n[웜업]\n6~11 10분\n---\n[메인]\n11~11.5 2분30초\n12.25 15분\n13 30초\n---\n14 1분45초\n---\n[쿨다운]\n6 5분\n\n총 34.75분 · 5.96km · 평균 10.3km/h (5:50/km)"
+    },
+    {
+      "name": "empty",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": []
+      },
+      "opts": {
+        "summary": false,
+        "names": false
+      },
+      "text": ""
+    },
+    {
+      "name": "empty",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": []
+      },
+      "opts": {
+        "summary": true,
+        "names": false
+      },
+      "text": "\n총 0분 · 0.00km · 평균 0.0km/h (-/km)"
+    },
+    {
+      "name": "empty",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": []
+      },
+      "opts": {
+        "summary": false,
+        "names": true
+      },
+      "text": ""
+    },
+    {
+      "name": "empty",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": []
+      },
+      "opts": {
+        "summary": true,
+        "names": true
+      },
+      "text": "\n총 0분 · 0.00km · 평균 0.0km/h (-/km)"
+    },
+    {
+      "name": "memoOnly",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "메모만",
+        "sections": []
+      },
+      "opts": {
+        "summary": false,
+        "names": false
+      },
+      "text": "메모만\n"
+    },
+    {
+      "name": "memoOnly",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "메모만",
+        "sections": []
+      },
+      "opts": {
+        "summary": true,
+        "names": false
+      },
+      "text": "메모만\n\n\n총 0분 · 0.00km · 평균 0.0km/h (-/km)"
+    },
+    {
+      "name": "memoOnly",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "메모만",
+        "sections": []
+      },
+      "opts": {
+        "summary": false,
+        "names": true
+      },
+      "text": "메모만\n"
+    },
+    {
+      "name": "memoOnly",
+      "session": {
+        "date": "2026-11-15",
+        "memo": "메모만",
+        "sections": []
+      },
+      "opts": {
+        "summary": true,
+        "names": true
+      },
+      "text": "메모만\n\n\n총 0분 · 0.00km · 평균 0.0km/h (-/km)"
+    }
+  ],
+  "parse": [
+    {
+      "name": "userSample",
+      "input": "메모(선택)\n\n6~11 10분\n---\n11~11.5 5분\n12 15분\n---\n6 5분",
+      "parsed": {
+        "date": "2026-11-15",
+        "memo": "메모(선택)",
+        "sections": [
+          {
+            "name": "웜업",
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "메인",
+            "segs": [
+              {
+                "from": 11,
+                "to": 11.5,
+                "min": 5
+              },
+              {
+                "from": 12,
+                "to": null,
+                "min": 15
+              }
+            ]
+          },
+          {
+            "name": "쿨다운",
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "secondsAndNames",
+      "input": "빌드업 날\n[웜업]\n6~11 10분\n---\n[메인]\n11 2분30초\n12-12.5 3 min\n13 km/h 4m\n13.5k 5\n---\n6 5분\n\n총 25분 · 4.00km · 평균 9.6km/h (6:15/km)",
+      "parsed": {
+        "date": "2026-11-15",
+        "memo": "빌드업 날",
+        "sections": [
+          {
+            "name": "웜업",
+            "segs": [
+              {
+                "from": 6,
+                "to": 11,
+                "min": 10
+              }
+            ]
+          },
+          {
+            "name": "메인",
+            "segs": [
+              {
+                "from": 11,
+                "to": null,
+                "min": 2.5
+              },
+              {
+                "from": 12,
+                "to": 12.5,
+                "min": 3
+              },
+              {
+                "from": 13,
+                "to": null,
+                "min": 4
+              },
+              {
+                "from": 13.5,
+                "to": null,
+                "min": 5
+              }
+            ]
+          },
+          {
+            "name": "쿨다운",
+            "segs": [
+              {
+                "from": 6,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "singleSection",
+      "input": "12 15분\n12.5 15분",
+      "parsed": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "메인",
+            "segs": [
+              {
+                "from": 12,
+                "to": null,
+                "min": 15
+              },
+              {
+                "from": 12.5,
+                "to": null,
+                "min": 15
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "sameFromTo",
+      "input": "10~10 5분\n10→11 5분\n11–12 5분",
+      "parsed": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "메인",
+            "segs": [
+              {
+                "from": 10,
+                "to": null,
+                "min": 5
+              },
+              {
+                "from": 10,
+                "to": 11,
+                "min": 5
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "twoSections",
+      "input": "8 5분\n---\n9 5분",
+      "parsed": {
+        "date": "2026-11-15",
+        "memo": "",
+        "sections": [
+          {
+            "name": "묶음 1",
+            "segs": [
+              {
+                "from": 8,
+                "to": null,
+                "min": 5
+              }
+            ]
+          },
+          {
+            "name": "묶음 2",
+            "segs": [
+              {
+                "from": 9,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "junk",
+      "input": "안녕\n---\n---\n\n12 abc\n12 5분",
+      "parsed": {
+        "date": "2026-11-15",
+        "memo": "안녕 12 abc",
+        "sections": [
+          {
+            "name": "메인",
+            "segs": [
+              {
+                "from": 12,
+                "to": null,
+                "min": 5
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
