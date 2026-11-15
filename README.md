@@ -2,6 +2,8 @@
 
 트레드밀 구간을 피아노롤로 입력하고 Claude에 붙여넣을 텍스트로 내보내는 앱.
 
+배포: https://cbcruk.github.io/treadp/ (main에 머지되면 자동 배포)
+
 ```sh
 pnpm install
 pnpm dev     # 개발 서버 (vp dev)

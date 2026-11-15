@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite-plus'
 
 export default defineConfig({
+  // GitHub Pages는 /treadp/ 하위 경로에서 서빙한다. 상대 경로면 어느 경로에서든 동작한다
+  base: './',
   // StyleX가 React보다 먼저 변환해야 한다
   plugins: [stylex(), react()],
   test: {
