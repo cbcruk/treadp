@@ -5,7 +5,8 @@
 ```sh
 pnpm install
 pnpm dev     # 개발 서버 (vp dev)
-pnpm check   # 포맷 + lint + 타입 검사 (vp check)
+pnpm verify  # 완료 전 전체 검증: check + 타입 검사 + test + e2e
+pnpm check   # 포맷 + lint (vp check)
 pnpm fmt     # oxfmt: 작은따옴표, 세미콜론 없음 (설정은 vite.config.ts의 fmt)
 pnpm lint    # oxlint (@astryxdesign/*는 src/ui/에서만 import 가능)
 pnpm test    # Vitest (domain/state 계약 테스트)
