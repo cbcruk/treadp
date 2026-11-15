@@ -19,3 +19,5 @@ pnpm build
 툴체인은 [Vite+](https://viteplus.dev)(`vite-plus`)입니다. fmt/lint/test 설정은 모두 `vite.config.ts`에 있습니다.
 
 - `tests/fixtures/legacy.json`: 레거시 코드가 만든 출력 계약. 새 구현은 이 출력과 같아야 한다.
+
+작업은 이슈로 계획을 올리고 브랜치 + PR로 진행합니다. PR마다 CI와 Claude 리뷰가 돕니다(`.github/workflows/`, 기준은 `CLAUDE.md`).
